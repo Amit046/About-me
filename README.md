@@ -46,7 +46,7 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/-amit/)  
 - 💻 [GitHub](https://github.com/Amit046)  
-- 📧 amitxyz046@gmail.com  
+- 📧 amityt500678@gmail.com  
 - 📍 Gurugram, Haryana, India  
 
 ---
