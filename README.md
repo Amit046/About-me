@@ -40,7 +40,7 @@
 - Responsive Web Design – FreeCodeCamp  
 - Python for Data Science – Board Infinity  
 
----
+--- 
 
 ## 📫 Let's Connect
 
